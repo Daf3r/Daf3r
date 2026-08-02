@@ -1,4 +1,4 @@
-I build my own tools for Arch and Wayland, and ship software small businesses actually use. 🐻‍❄️
+I build my own tools for Arch, Wayland and local AI, and ship software small businesses actually use. 🐻‍❄️
 
 ### Working on
 
@@ -8,13 +8,13 @@ I build my own tools for Arch and Wayland, and ship software small businesses ac
 
 ### Tools I built
 
-- **[dictado](https://github.com/Daf3r/dictado)** — voice dictation for Hyprland. Local, ~440 ms, no cloud.
+- **[dictado](https://github.com/Daf3r/dictado)** — voice dictation for Hyprland. whisper.cpp on the GPU, ~440 ms, nothing leaves the machine.
 - **[pzget](https://github.com/Daf3r/pzget)** — Arch/AUR installer. Search `reproductor`, get `mpv`.
 - **[readme-generator](https://readme-generator.polarzero.dev)** — a form turns into a GitHub README. No backend.
 
 ### Tools I use
 
-Arch · Hyprland · Astro · TypeScript · Postgres · Docker · self-hosted on my own VPS
+Arch · Hyprland · whisper.cpp · Astro · TypeScript · Postgres · Docker · self-hosted on my own VPS
 
 ### Elsewhere
 
